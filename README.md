@@ -1,4 +1,6 @@
-# Implementaion of Data Structures in various languages
+# Data Structures
+
+Implementation of data structures in various languages
 
 Includes:
 * Stack
